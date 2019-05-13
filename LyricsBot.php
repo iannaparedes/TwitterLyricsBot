@@ -7,10 +7,10 @@ header('Content-Type: text/html; charset=utf-8');
 
 /** Set access tokens here - see: https://apps.twitter.com/ **/
 $APIsettings = array(
-    'oauth_access_token' => $oauthToken,
-    'oauth_access_token_secret' => $oauthTokenSecret,
-    'consumer_key' => $consumerKey,
-    'consumer_secret' => $consumerSecret
+    '1087172021799145472-XB5kSS2GrnHLBw9JwclyPlItKZtwnL' => $oauthToken,
+    'YMvmbeBOJQw8GKVqSjUfVOmYRht1jIC5rGGbBCwS7u8aM' => $oauthTokenSecret,
+    '2ET5mbd8OrMM6qvWAFdcxThC1' => $consumerKey,
+    '6KiF1Nyo3xcVqL5tQ94JyJyokDlXRhWX7UhtxNLJX66H74XbIQ' => $consumerSecret
 );
 
 /** Set Lyrics Wikia Artist Page here **/
